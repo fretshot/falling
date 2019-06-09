@@ -1,0 +1,10 @@
+Falling v1.1
+
+Improvements:
+
+DONE - Replace exit button in aboutScene by a canvas button
+DONE - Adjust distance between platforms
+DONE - Add lives system
+DONE - Rework scripts
+DONE - Rework Icon app
+DONE- Add button to mute music and effects
